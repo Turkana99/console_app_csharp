@@ -3,8 +3,5 @@
 1. Simple Creature
 ![Alt text](image.png)
 
-2. Simple Creature 2
+2. Complex Creature 
 ![Alt text](image-1.png)
-
-3. Simple Creature 3
-![Alt text](image-2.png)
