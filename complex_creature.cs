@@ -7,23 +7,22 @@ namespace Firstproject
 {
         static void Main(string[] args)
         {
-            Console.WriteLine("c_      __");
-            Console.WriteLine("   \\\\__|__|__");
-            Console.WriteLine("      \\( o_o)");
-            Console.WriteLine("       > ~  >");
-            Console.WriteLine("       /   / \\\\");
-            Console.WriteLine("      /   /   \\\\");
-            Console.WriteLine("      \\   )   c/");
-            Console.WriteLine("      /   / ");
-            Console.WriteLine("     /   / \\");
-            Console.WriteLine("     (   ( \\");
-            Console.WriteLine("     |   | \\");
-            Console.WriteLine("     |   / \\ )");
-            Console.WriteLine("     |   | )  |");
-            Console.WriteLine("     /   )(_/");
-            Console.WriteLine("    (_   /");
-         
+            console.writeline("c_      __");
+            console.writeline("   \\\\__|__|__");
+            console.writeline("      \\( o_o)");
+            console.writeline("       > ~  >");
+            console.writeline("       /   / \\\\");
+            console.writeline("      /   /   \\\\");
+            console.writeline("      \\   )   c/");
+            console.writeline("      /   / ");
+            console.writeline("     /   / \\");
+            console.writeline("     (   ( \\");
+            console.writeline("     |   | \\");
+            console.writeline("     |   / \\ )");
+            console.writeline("     |   | )  |");
+            console.writeline("     /   )(_/");
+            console.writeline("    (_  /");
         }
-    }
 
+}
 }
