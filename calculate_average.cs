@@ -18,5 +18,9 @@ namespace Firstproject
             average = FindAvarage(num1, num2, num3);
             Console.WriteLine("Avarege is " + average);
         }
+           static double FindAvarage(double a, double b, double c)
+        {
+            return (a + b + c) / 3;
+        }
 }
 }

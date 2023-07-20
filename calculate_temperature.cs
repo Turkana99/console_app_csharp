@@ -13,5 +13,9 @@ namespace Firstproject
             double result = CalculateTemperature(temp);
             Console.WriteLine("Temperature is " + result+"F");
         }
+         static double CalculateTemperature(int a)
+        {
+            return a * 73.8;
+        }
 }
 }
