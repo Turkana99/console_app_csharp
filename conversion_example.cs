@@ -21,7 +21,7 @@ namespace Firstproject
             int h = Convert.ToInt32(b);
             Console.WriteLine(h);
             //int t = Convert.ToInt32(d);
-            //Console.WriteLine(t);
+            //Console.WriteLine(t); // Output: Error, because this string can't convert a number.
             int y = Convert.ToInt32(e);
             Console.WriteLine(y);
             string s = Convert.ToString(f);
